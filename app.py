@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import date, datetime
 from dateutil.relativedelta import relativedelta
 
-st.set_page_config(page_title=PPM (Appix style), layout=wide)
+st.set_page_config(page_title="PPM (Appix style)", layout="wide")
 
 # ───────────────────────────────── Helpers
 def init_store()
